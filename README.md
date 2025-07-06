@@ -62,13 +62,4 @@ I'm actively learning **Python** on [Boot.dev](https://boot.dev)!
 
 ## 🐶 Fun Fact
 
-I have a **yorkie** who thinks he's the real CodeHampter 🐾
-
----
-
-<h3 align="left">🌐 Connect with Me</h3>
-<p align="left">
-  <a href="https://twitter.com/codehampter" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codehampter" height="30" width="40" />
-  </a>
-</p>
+I have a **yorkie** who likes pickles
