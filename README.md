@@ -1,58 +1,56 @@
-<h1 align="center">Hi 👋 I'm Timofey Matveyko</h1>
-<h3 align="center">a.k.a. <code>CodeHampter</code></h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=435&lines=Timofey+Matveyko;aka+CodeHampter;Python+Learner+%2F+Tinkerer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codehampter&label=Profile%20views&color=0057ff&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codehampter&theme=flat&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars&margin-w=10&margin-h=10" alt="Trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=codehampter&label=Profile%20Views&color=00fff7&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-## 🧠 Currently Leveling Up My Skills
+## 🧠 Learning Focus
 
-I'm diving deep into **Python** via [Boot.dev](https://boot.dev) 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/9c170c94-aced-4cd7-88f2-a515a84aecf6/thumbnail" alt="Boot.dev Progress" />
+I'm currently studying **Python** on [Boot.dev](https://boot.dev), working through hands-on backend and algorithmic challenges.
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/9c170c94-aced-4cd7-88f2-a515a84aecf6/thumbnail" alt="Boot.dev Progress" width="300px" />
 </p>
 
 ---
 
-## 🛠️ Languages & Tools I Tinker With
+## 🧰 Tools & Languages
 
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,vscode&theme=dark" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=codehampter&show_icons=true&locale=en&theme=blueberry" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codehampter&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codehampter&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 🏆 Achievements
 
-- 📧 Email: **contact.codehampter@gmail.com**  
-- 🐦 Twitter: [@codehampter](https://twitter.com/codehampter)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codehampter&theme=tokyonight&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 📬 Contact
+
+- 📧 Email: **contact.codehampter@gmail.com**
+- 🐦 Twitter: [@codehampter](https://twitter.com/codehampter)
 - 💬 Discord: **@Snuffler**
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF7,100:8A2BE2&height=150&section=footer&text=Thanks%20for%20visiting!&fontAlign=50&fontAlignY=80&fontColor=ffffff&fontSize=20&animation=fadeIn" />
+</p>
