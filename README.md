@@ -12,6 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=codehampter&label=Profile%20Views&color=00fff7&style=flat-square" alt="Profile views" />
 </p>
 
+<!-- Matrix rain -->
+<p align="center">
+  <img src="https://media.giphy.com/media/eLHlzD3G4O6rY/giphy.gif" width="100%" style="border-radius: 8px;" />
+</p>
+
 ---
 
 ## 🧠 Learning Dashboard
