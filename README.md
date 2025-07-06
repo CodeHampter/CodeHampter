@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Timofey Matveyko</h1>
+<h1 align="center">Hi 👋 I'm Timofey Matveyko</h1>
 <h3 align="center">a.k.a. <code>CodeHampter</code></h3>
 
 <p align="center">
@@ -19,14 +19,6 @@ I'm diving deep into **Python** via [Boot.dev](https://boot.dev)
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/9c170c94-aced-4cd7-88f2-a515a84aecf6/thumbnail" alt="Boot.dev Progress" />
 </p>
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: **contact.codehampter@gmail.com**  
-- 🐦 Twitter: [@codehampter](https://twitter.com/codehampter)  
-- 💬 Discord: **@Snuffler**
 
 ---
 
@@ -57,10 +49,10 @@ I'm diving deep into **Python** via [Boot.dev](https://boot.dev)
 
 ---
 
-## 🎧 Now Playing on YouTube Music
+## 📫 Contact Me
 
-## 🎧 Now Playing on YouTube Music
+- 📧 Email: **contact.codehampter@gmail.com**  
+- 🐦 Twitter: [@codehampter](https://twitter.com/codehampter)  
+- 💬 Discord: **@Snuffler**
 
-<p align="left">
-  <img src="https://nowplaying.site/api/now-playing/YOUR_USERNAME/image" alt="Now Playing on YouTube Music">
-</p>
+---
