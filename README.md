@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timofey Matveyko</h1>
-<h3 align="center">a.k.a. CodeHampter https://github.com/CodeHampter/CodeHampter/blob/main/README.md</h3>
+<h3 align="center">a.k.a. CodeHampter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codehampter&label=Profile%20views&color=0e75b6&style=flat" alt="codehampter" /> </p>
 
