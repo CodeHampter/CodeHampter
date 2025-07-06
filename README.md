@@ -1,4 +1,4 @@
-<h1 align="center">📘 Hi 👋, I'm Timofey Matveyko</h1>
+<h1 align="center">Hi 👋, I'm Timofey Matveyko</h1>
 <h3 align="center">a.k.a. CodeHampter</h3>
 
 <p align="center">
