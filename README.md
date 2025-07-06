@@ -59,6 +59,8 @@ I'm diving deep into **Python** via [Boot.dev](https://boot.dev)
 
 ## 🎧 Now Playing on YouTube Music
 
+## 🎧 Now Playing on YouTube Music
+
 <p align="left">
-  <img src="https://nowplaying.site/api/now-playing/Child%20Eater/image" alt="Now Playing on YouTube Music">
+  <img src="https://nowplaying.site/api/now-playing/YOUR_USERNAME/image" alt="Now Playing on YouTube Music">
 </p>
