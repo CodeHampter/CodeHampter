@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Timofey Matveyko</h1>
-<h3 align="center">a.k.a. <code>CodeHampter</code> — Curious. Creative. Code-Obsessed.</h3>
+<h3 align="center">a.k.a. <code>CodeHampter</code></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codehampter&label=Profile%20views&color=0057ff&style=flat" alt="Profile views" />
