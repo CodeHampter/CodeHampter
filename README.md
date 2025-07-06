@@ -7,14 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/codehampter" target="blank"><img src="https://img.shields.io/twitter/follow/codehampter?logo=twitter&style=for-the-badge" alt="codehampter" /></a> </p>
 
-- 🌱 I’m currently learning Python, on **boot.dev**
+- 🌱 I’m currently learning: Python, on **boot.dev**
   <p align="left">
   <img src="https://api.boot.dev/v1/users/public/9c170c94-aced-4cd7-88f2-a515a84aecf6/thumbnail" >
 </p>
 
-- 📫 How to reach me **contact.codehampter@gmail.com**
+- 📫 How to reach me: **contact.codehampter@gmail.com**
 
-- ⚡ Fun fact **I have a yorkie**
+- ⚡ Fun fact: **I have a yorkie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
