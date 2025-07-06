@@ -15,7 +15,7 @@
 
 ## 🧠 Currently Leveling Up My Skills
 
-I'm diving deep into **Python** via [Boot.dev](https://boot.dev) — building backend confidence, one byte at a time.  
+I'm diving deep into **Python** via [Boot.dev](https://boot.dev) 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/9c170c94-aced-4cd7-88f2-a515a84aecf6/thumbnail" alt="Boot.dev Progress" />
 </p>
