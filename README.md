@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Timofey Matveyko</h1>
-<h3 align="center">a.k.a. CodeHampter</h3>
+<h1 align="center">Hi there 👋 I'm Timofey Matveyko</h1>
+<h3 align="center">a.k.a. <code>CodeHampter</code> — Curious. Creative. Code-Obsessed.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codehampter&label=Profile%20views&color=0057ff&style=flat" alt="codehampter" />
+  <img src="https://komarev.com/ghpvc/?username=codehampter&label=Profile%20views&color=0057ff&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -13,40 +13,43 @@
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Currently Leveling Up My Skills
 
-I'm actively learning **Python** on [Boot.dev](https://boot.dev)!  
+I'm diving deep into **Python** via [Boot.dev](https://boot.dev) — building backend confidence, one byte at a time.  
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/9c170c94-aced-4cd7-88f2-a515a84aecf6/thumbnail" alt="Boot.dev Progress" />
 </p>
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Connect With Me
 
-- Email: **contact.codehampter@gmail.com**
-- Twitter: [@codehampter](https://twitter.com/codehampter)
-- Discord: **@Snuffler**
+- 📧 Email: **contact.codehampter@gmail.com**  
+- 🐦 Twitter: [@codehampter](https://twitter.com/codehampter)  
+- 💬 Discord: **@Snuffler**
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools I Tinker With
 
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" />
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=codehampter&show_icons=true&locale=en&theme=blueberry" alt="GitHub Stats" />
@@ -54,6 +57,14 @@ I'm actively learning **Python** on [Boot.dev](https://boot.dev)!
 
 ---
 
-## 🐶 Fun Fact
+## 🎧 Now Playing on YouTube Music
 
-I have a **yorkie** who likes pickles
+<p align="left">
+  <img src="https://widget.nowplaying.site/YXRCuooRTeFnxiZy" alt="Now Playing on YouTube Music">
+</p>
+
+---
+
+## 🐶 A Random (and Adorably Weird) Fact
+
+I have a **Yorkie** who thinks **pickles** are gourmet cuisine. 🥒🐾
