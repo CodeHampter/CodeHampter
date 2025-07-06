@@ -60,11 +60,5 @@ I'm diving deep into **Python** via [Boot.dev](https://boot.dev)
 ## 🎧 Now Playing on YouTube Music
 
 <p align="left">
-  <img src="https://widget.nowplaying.site/YXRCuooRTeFnxiZy" alt="Now Playing on YouTube Music">
+  <img src="https://nowplaying.site/api/now-playing/Child Eater/image" alt="Now Playing on YouTube Music">
 </p>
-
----
-
-## 🐶 A Random (and Adorably Weird) Fact
-
-I have a **Yorkie** who thinks **pickles** are gourmet cuisine. 🥒🐾
